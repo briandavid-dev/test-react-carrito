@@ -1,0 +1,8 @@
+.carrito_panel {
+    position: fixed;
+    background-color: wheat;
+    height: 100vh;
+    width: 300px;
+    color: slategray;
+    right: 5px;
+}
